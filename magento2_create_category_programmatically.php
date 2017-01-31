@@ -3,7 +3,7 @@
 //
 // Magento 2 create category programmatically
 //
-// Source  : https://github.com/coresh/magento2awesome/blob/master/magento2_create_category_programmatically.php
+// Source  : https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php
 // Purpose : testing
 // Tested  : magento EE 2.1.3
 // Usage:
